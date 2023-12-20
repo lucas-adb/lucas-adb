@@ -17,4 +17,4 @@ I'm a Front-End Web Developer living in Brazil 🇧🇷.
 </a>
 
 
-| &nbsp;&nbsp;&nbsp; Portfolio : [[https://lucas-adb.github.io/](https://lucasalves.dev/)]([https://lucas-adb.github.io/](https://lucasalves.dev/)https://lucasalves.dev/)
+| &nbsp;&nbsp;&nbsp; Portfolio : [[https://lucasalves.dev/](https://lucasalves.dev/)
