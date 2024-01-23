@@ -13,7 +13,7 @@ I'm a Front-End Web Developer living in Brazil 🇧🇷.
 ### Want to build something? Let's chat ☕
 
 <a href="https://www.linkedin.com/in/lucasalvesbrito/">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Lucas's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
 
