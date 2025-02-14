@@ -13,13 +13,4 @@ I'm a Front-End Web Developer living in Brazil 🇧🇷. With experience in desi
 
 
 ### Want to build something? Let's chat ☕
-
-<a href="https://www.linkedin.com/in/lucasalvesbrito/">
-  <img align="left" alt="Lucas's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-
-<a href="mailto:alvesdebrito.lucas@gmail.com">
-  <img align="left" alt="Lucas's Email" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
-</a>
-
-| &nbsp;&nbsp;&nbsp; Portfolio : [lucasalves.dev](https://lucasalves.dev/)
+Portfolio : [lucasalves.dev](https://lucasalves.dev/)
